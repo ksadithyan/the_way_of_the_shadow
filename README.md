@@ -1,4 +1,5 @@
 
+![](https://github.com/ksadithyan/the_way_of_the_shadow/blob/main/Picture2.png)
 
 **Shadow Scrolls - A 2D Pygame Platformer**
 
