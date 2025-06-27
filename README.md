@@ -5,7 +5,7 @@
 
 A fast-paced 2D platformer built with Python and Pygame. The goal is to navigate challenging levels, collect all the "Scroll Coins", and reach the goal in the fastest time possible, utilizing advanced movement like wall jumps and a temporary speed-boost power-up.
 
-![](https://https://github.com/ksadithyan/the_way_of_the_shadow/blob/main/new.gif)
+![](https://github.com/ksadithyan/the_way_of_the_shadow/blob/main/new.gif)
 **Features**
 
 Advanced Player Movement: Responsive controls including running, jumping, double jumping, wall sliding, and wall jumping.
