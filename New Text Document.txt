@@ -1,0 +1,8 @@
+You basically need the files in this folder
+pygame to be installed in the system
+python 3
+Use PyCharm to run
+
+the report and the final video is in the Folder named "Report and Video"
+
+It should run fine without need of any third party software
